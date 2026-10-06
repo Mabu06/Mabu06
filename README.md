@@ -43,7 +43,7 @@ const developer = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-24292E?style=for-the-badge&logo=gnubash&logoColor=white)
 
-#### 𝐓𝐢𝐤𝐢 𝐓𝐈𝐤𝐢
+#### Tiki Tiki
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
@@ -51,19 +51,3 @@ const developer = {
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
----
-
-### `vibe_coding.js`
-
-```javascript
-while (alive) {
-  const idea = think();
-  const code = await ai.generate(idea);   // el agente escribe
-  const result = review(code);            // yo reviso y ajusto
-  if (result.works) ship(result);
-  else iterate(result.feedback);
-}
-```
-
----
